@@ -2,6 +2,8 @@
 
 > 🇬🇧 **English summary:** dbt project for a bike retailer: complete analysis of sales data, customer behavior and commercial trends, modeled into staging, intermediate and mart layers.
 
+![dbt model layers](docs/overview.png)
+
 LocalBike Project est une analyse complète des données commerciales d'une entreprise spécialisée dans la vente de vélos et accessoires. Ce projet exploite **DBT (Data Build Tool)** pour transformer, structurer et modéliser les données, tout en fournissant des insights exploitables pour soutenir les décisions stratégiques.
 
 ---
